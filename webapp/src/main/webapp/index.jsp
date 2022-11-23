@@ -4,8 +4,8 @@
     <p>Please fill in this form to create an account and get lost from heree.</p>
     <hr>
      
-    <label for="Name"><b>lakshmi</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="Name"><b>diwakar</b></label>
+    <input type="text" placeholder="Enter diwakar" name="Name" id="Name" required>
     <br>
     
     <label for="mobilenumber"><b>Enter mobilenumber</b></label>
