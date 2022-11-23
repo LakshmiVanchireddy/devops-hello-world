@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account and get lost from heree.</p>
     <hr>
      
-    <label for="Name"><b>diwakar</b></label>
+    <label for="Name"><b>diwakarreddyv</b></label>
     <input type="text" placeholder="Enter diwakar" name="Name" id="Name" required>
     <br>
     
